@@ -1,7 +1,11 @@
 Module 2 Coding Assignment
 =======
 
+<<<<<<< HEAD
 [View it Live](https://jlollis.github.io/course5-module2/)
+=======
+[View it Live](https://jlollis.github.io/course5-module2)
+>>>>>>> af3e1acacd96cd63c6bb1b42e25de465e87f5550
 
 [Click here to SIGN UP for the ***Single Page Web Applications with AngularJS*** course on Coursera](https://www.coursera.org/learn/single-page-web-apps-with-angularjs). It's FREE!
 
